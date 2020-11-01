@@ -29,8 +29,8 @@
 | [:bulb:][13]          | [Bridge][43]        |                                                                                    |
 | [:bulb:][13]          | [Composite][44]     |                                                                                    |
 | [:bulb:][13]          | [Decorator][45]     |                                                                                    |
-| [[:bulb:][13]         | [Facade][46]        |                                                                                    |
-| [[:bulb:][13]         | [Flyweight][47]     |                                                                                    |
+| [:bulb:][13]          | [Facade][46]        |                                                                                    |
+| [:bulb:][13]          | [Flyweight][47]     |                                                                                    |
 | [:bulb:][13]          | [Proxy][48]         |                                                                                    |
 
 
@@ -76,12 +76,12 @@
 [33]: comportamentais/strategy
 [34]: comportamentais/template-method
 [35]: comportamentais/visitor
-[36]: criacao/abstract-factory
-[37]: criacao/builder
-[38]: criacao/factory-method
-[39]: criacao/monostate
-[40]: criacao/prototype
-[41]: criacao/singleton
+[36]: criacionais/abstract-factory
+[37]: criacionais/builder
+[38]: criacionais/factory-method
+[39]: criacionais/monostate
+[40]: criacionais/prototype
+[41]: criacionais/singleton
 [42]: estruturais/adapter
 [43]: estruturais/bridge
 [44]: estruturais/composite
