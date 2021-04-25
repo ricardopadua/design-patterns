@@ -1,0 +1,16 @@
+/home/ricardo/Desktop/ong_gapo/design-patterns/Creational/FactoryMethod/bin/Debug/net5.0/FactoryMethod
+/home/ricardo/Desktop/ong_gapo/design-patterns/Creational/FactoryMethod/bin/Debug/net5.0/FactoryMethod.deps.json
+/home/ricardo/Desktop/ong_gapo/design-patterns/Creational/FactoryMethod/bin/Debug/net5.0/FactoryMethod.runtimeconfig.json
+/home/ricardo/Desktop/ong_gapo/design-patterns/Creational/FactoryMethod/bin/Debug/net5.0/FactoryMethod.runtimeconfig.dev.json
+/home/ricardo/Desktop/ong_gapo/design-patterns/Creational/FactoryMethod/bin/Debug/net5.0/FactoryMethod.dll
+/home/ricardo/Desktop/ong_gapo/design-patterns/Creational/FactoryMethod/bin/Debug/net5.0/ref/FactoryMethod.dll
+/home/ricardo/Desktop/ong_gapo/design-patterns/Creational/FactoryMethod/bin/Debug/net5.0/FactoryMethod.pdb
+/home/ricardo/Desktop/ong_gapo/design-patterns/Creational/FactoryMethod/obj/Debug/net5.0/FactoryMethod.csprojAssemblyReference.cache
+/home/ricardo/Desktop/ong_gapo/design-patterns/Creational/FactoryMethod/obj/Debug/net5.0/FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+/home/ricardo/Desktop/ong_gapo/design-patterns/Creational/FactoryMethod/obj/Debug/net5.0/FactoryMethod.AssemblyInfoInputs.cache
+/home/ricardo/Desktop/ong_gapo/design-patterns/Creational/FactoryMethod/obj/Debug/net5.0/FactoryMethod.AssemblyInfo.cs
+/home/ricardo/Desktop/ong_gapo/design-patterns/Creational/FactoryMethod/obj/Debug/net5.0/FactoryMethod.csproj.CoreCompileInputs.cache
+/home/ricardo/Desktop/ong_gapo/design-patterns/Creational/FactoryMethod/obj/Debug/net5.0/FactoryMethod.dll
+/home/ricardo/Desktop/ong_gapo/design-patterns/Creational/FactoryMethod/obj/Debug/net5.0/ref/FactoryMethod.dll
+/home/ricardo/Desktop/ong_gapo/design-patterns/Creational/FactoryMethod/obj/Debug/net5.0/FactoryMethod.pdb
+/home/ricardo/Desktop/ong_gapo/design-patterns/Creational/FactoryMethod/obj/Debug/net5.0/FactoryMethod.genruntimeconfig.cache
